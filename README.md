@@ -10,6 +10,7 @@ La influencia de los datos y de la inteligencia artificial en nuestras decisione
 La agricultura y la ganadería no son ajenas a esta nueva realidad. Hace unos años eran muy poco común encontrar artículos científicos que involucrarán inteligencia artificial y agricultura o ganadería, pero ahora su uso ha permeado sus distintas áreas y la cantidad de artículos han crecido considerablemente.
 
 
-
+## References 
+[1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
 
 El repositorio
