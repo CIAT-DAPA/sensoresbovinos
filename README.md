@@ -9,7 +9,7 @@ La influencia de los datos y de la inteligencia artificial en nuestras decisione
 
 La agricultura y la ganadería no son ajenas a esta nueva realidad. Hace unos años eran muy poco común encontrar artículos científicos que involucrarán inteligencia artificial y agricultura o ganadería, pero ahora su uso ha permeado sus distintas áreas y la cantidad de artículos han crecido considerablemente.
 
-Un tema que ha comenzado a posicionarse en el ámbito ganadero es el impacto del cambio climático en sus sistemas productivos, se ha demostrado su impacto negativo en sus sistemas productivos (Oosting, 2014) [1]. Por lo que monitorear estas variaciones en clima y en el impacto en los bovinos es una necesidad actual. 
+Un tema que ha comenzado a posicionarse en el ámbito ganadero es el impacto del cambio climático en sus sistemas productivos, se ha demostrado su impacto negativo en estos sistemas (Oosting, 2014) [1]. Por lo que monitorear estas variaciones en clima y en el impacto en los bovinos es una necesidad actual. Desde hace unos años atrás se empezó la utilización de sensores para la medición de distintas variables, como temperatura corporal del bovino. 
 
 
 
