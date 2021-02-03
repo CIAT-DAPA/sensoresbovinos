@@ -4,7 +4,7 @@
 
 
 
-<img src="/themes/custom/ccafs/logo-white.svg" alt="CCAFS: CGIAR research program on Climate Change, Agriculture and Food Security" class="logo-white">
+
 
 
 
