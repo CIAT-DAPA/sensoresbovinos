@@ -16,6 +16,6 @@ Un tema que ha comenzado a posicionarse en el ámbito ganadero es el impacto del
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
 
-[2] Trewin, B. The climates of the tropics and how they are changing. (2014). Bureau of Meteorology.
+[2] Trewin, B. The climates of the tropics and how they are changing. (2014). Bureau of Meteorology. https://www.jcu.edu.au/state-of-the-tropics/publications/2014/2014-essay-pdfs/Essay-1-Trewin.pdf
 
 El repositorio
