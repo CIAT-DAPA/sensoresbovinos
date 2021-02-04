@@ -21,8 +21,7 @@ Bajo este panorama, se llevó a cabo el proyecto, cuantificación de los impacto
 
 
 <img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/Vaca1.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
-
-
+                                     ffff
 
 
 
