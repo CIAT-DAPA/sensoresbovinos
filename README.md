@@ -9,8 +9,9 @@ La influencia de los datos y de la inteligencia artificial en nuestras decisione
 
 La agricultura y la ganadería no son ajenas a esta nueva realidad. Hace unos años eran muy poco común encontrar artículos científicos que involucrarán inteligencia artificial y agricultura o ganadería, pero ahora su uso ha permeado sus distintas áreas y la cantidad de artículos han crecido considerablemente.
 
-Un tema que ha comenzado a posicionarse en el ámbito ganadero es el impacto del cambio climático en sus sistemas productivos, se ha demostrado su impacto negativo en estos sistemas (Oosting, 2014) [1]. Por lo que monitorear estas variaciones en clima y en el impacto en los bovinos es una necesidad actual. Desde hace unos años atrás se empezó la utilización de sensores para la medición de distintas variables, como temperatura corporal del bovino. 
+Un tema que ha comenzado a posicionarse en el ámbito ganadero es el impacto del cambio climático en sus sistemas productivos, se ha demostrado su impacto negativo en estos sistemas (Oosting, 2014) [1].  Por lo que monitorear estas variaciones en clima y en el impacto en los bovinos es una necesidad actual. Desde hace unos años atrás se empezó la utilización de sensores para la medición de distintas variables, como la temperatura corporal, entre los más utilizados, está la temperatura por el recto y por el tímpano, esta última es la más amigable con el bienestar animal. 
 
+A nivel comercial, hay una gran variedad de sensores, la mayoría de estos tienen con un alto costo y adaptados a países europeos o norteamericanos, y en menor medida para los países del trópico, como Colombia. Sin embargo, varios centros de investigación y universidades han empezado a desarrollar estos sensores teniendo en cuenta las condiciones ambientales propias del lugar. Una parte importante de estos desarrollos es el análisis de los datos generados. Este manual pretende ofrecer una herramienta para el tratamiento de estos datos, se implementa una rutina para convertir en datos en bruto en datos fáciles de leer, prácticos y exactos. 
 
 
 ## Referencias 
