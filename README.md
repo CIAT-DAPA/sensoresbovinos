@@ -15,7 +15,7 @@ A nivel comercial, hay una gran variedad de sensores, la mayoría de estos tiene
 
 ## Contexto
 
-
+Bajo este panorama, se llevó a cabo el proyecto, cuantificación de los impactos del clima en sistemas bovinos lecheros en el trópico bajo a través de minera de datos y modelos, liderado por la Universidad Nacional de Colombia, junto al grupos del grupo a agricultura digital de la Alianza Bioversity y CIAT, bajo el programa de Climate, Change, Agriculture and Food Security CCAFS. 
 
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
