@@ -25,7 +25,9 @@ Bajo este panorama, se llevó a cabo el proyecto, cuantificación de los impacto
  
 El objetivo de este trabajo es cuantificar la relación existente entre las variables climáticas y la temperatura corporal timpánica registrada a través del uso de sensores inalámbricos en vacas de pastoreo. 
 
-El proceso descrito en la figura de arriba, homesotasis, es la capacidad de mantener una condición interna estable compensando los cambios en su entorno mediante el intercambio regulado de materia y energía exterior [4].  
+El proceso descrito en la figura de arriba, homesotasis, es la capacidad de mantener una condición interna estable compensando los cambios en su entorno mediante el intercambio regulado de materia y energía exterior [4].  En este caso se pretende estudiar este proceso metabólico en la región del Valle del Cauca. 
+
+Y en grupo de agricultura digital de la alizanza trabajó en el flujo de trabajo para todo el proceso de minera de datos, ciclo de vida de los datos, utilizando la metodologia CRIPS_DM. Este manual pertenece a parte de procesamiento.
 
 
 
