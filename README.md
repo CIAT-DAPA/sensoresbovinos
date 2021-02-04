@@ -13,6 +13,9 @@ Un tema que ha comenzado a posicionarse en el ámbito ganadero es el impacto del
 
 A nivel comercial, hay una gran variedad de sensores, la mayoría de estos tienen con un alto costo y adaptados a países europeos o norteamericanos, y en menor medida para los países del trópico, como Colombia. Sin embargo, varios centros de investigación y universidades han empezado a desarrollar estos sensores teniendo en cuenta las condiciones ambientales propias del lugar. Una parte importante de estos desarrollos es el análisis de los datos generados. Este manual pretende ofrecer una herramienta para el tratamiento de estos datos, se implementa una rutina para convertir en datos en bruto en datos fáciles de leer, prácticos y exactos. 
 
+## Contexto
+
+
 
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
