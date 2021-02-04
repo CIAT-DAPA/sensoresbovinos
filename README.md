@@ -21,8 +21,9 @@ Bajo este panorama, se llevó a cabo el proyecto, cuantificación de los impacto
 
 
 <img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/Vaca1.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
-                                     ffff
-
+                                     
+ 
+El objetivo de este trabajo es cuantificar la relación existente entre las variables climáticas y la temperatura corporal timpánica registrada a través del uso de sensores inalámbricos en vacas de pastoreo. 
 
 
 
