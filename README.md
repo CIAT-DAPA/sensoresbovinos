@@ -15,7 +15,7 @@ A nivel comercial, hay una gran variedad de sensores, la mayoría de estos tiene
 
 ## Contexto
 
-La temperatura en las zonas tropicales se ha incrementado  anualmente en más de  1°C durante los últimos cincuenta años y espera un incremento de más de 2°C en los próximos cincuenta años (Trewin, 2014) [2].  El incremento de la temperatura ha impacto al sector ganadero en gran medida, esto afecta el estrés calórico diario del animal que afecta negativamente el desempeño de la productividad  y la reproductividad. (Sirohi, 2007)[3].  De acuerdo al IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). La región del Valle Cauca ha experimientado desde el 2015 un incremento en temperatura entre 2 y 4 °C y aumento en las lluvia del 40%. 
+La temperatura en las zonas tropicales se ha incrementado  anualmente en más de  1°C durante los últimos cincuenta años y espera un incremento de más de 2°C en los próximos cincuenta años (Trewin, 2014) [2].  El incremento de la temperatura ha impacto al sector ganadero en gran medida, esto afecta el estrés calórico diario del animal que afecta negativamente el desempeño de la productividad  y la reproductividad. (Sirohi, 2007)[3].  De acuerdo al IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). La región del Valle Cauca ha experimientado desde el 2015 un incremento en temperatura entre 2 y 4 °C y aumento en las lluvia del 40%. Es importante notar que en los bovinos las variables climáticas tales como, temperatura ambiente, radiación solar, humedad relativa, velocidad del viento y precipitación son importantes para la regulación térmica. [5] 
 
 <img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/Vaca2.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
@@ -34,6 +34,10 @@ Y el grupo de agricultura digital junto al equipo de la Universidad Nacional de 
 
 ## Metodología
 
+Los sensores utilizados para la cap
+
+
+
 
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
@@ -43,3 +47,5 @@ Y el grupo de agricultura digital junto al equipo de la Universidad Nacional de 
 [3] Sirohi, S, Sufferer and cause: Indian livestock and climate change, (2017)
 
 [4] https://es.wikipedia.org/wiki/Homeostasis
+
+[5] Perilla, (2021). Efecto del clima sobre la respuesta térmica en vacas de diferentes grupos raciales en trópico bajo.
