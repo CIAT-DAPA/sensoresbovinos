@@ -15,11 +15,15 @@ A nivel comercial, hay una gran variedad de sensores, la mayoría de estos tiene
 
 ## Contexto
 
+El incremento de la temperatura en las zonas tropicales se ha incrementado la temperatura anualmente más de  1°C durante los últimos cincuenta años y espera un incremento de más de 2°C en los próximos cincuenta años (Trewin, 2014) [2].  El incremento de la temperatura ha impacto al sector ganadero en gran medida, esto afecta el estrés calórico diario del animal que afecta negativamente el desempeño de la productividad  y la reproductividad. (Sirohi, 2007)[3].
+
 Bajo este panorama, se llevó a cabo el proyecto, cuantificación de los impactos del clima en sistemas bovinos lecheros en el trópico bajo a través de minera de datos y modelos, liderado por la Universidad Nacional de Colombia, junto al grupos del grupo a agricultura digital de la Alianza Bioversity y CIAT, bajo el programa de Climate, Change, Agriculture and Food Security CCAFS. 
 
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
 
 [2] Trewin, B. The climates of the tropics and how they are changing. (2014). Bureau of Meteorology. https://www.jcu.edu.au/state-of-the-tropics/publications/2014/2014-essay-pdfs/Essay-1-Trewin.pdf
+
+[3] Sirohi, S, Sufferer and cause: Indian livestock and climate change, (2017)
 
 El repositorio
