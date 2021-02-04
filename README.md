@@ -15,7 +15,7 @@ A nivel comercial, hay una gran variedad de sensores, la mayoría de estos tiene
 
 ## Contexto
 
-La temperatura en las zonas tropicales se ha incrementado  anualmente en más de  1°C durante los últimos cincuenta años y espera un incremento de más de 2°C en los próximos cincuenta años (Trewin, 2014) [2].  El incremento de la temperatura ha impacto al sector ganadero en gran medida, esto afecta el estrés calórico diario del animal que afecta negativamente el desempeño de la productividad  y la reproductividad. (Sirohi, 2007)[3].
+La temperatura en las zonas tropicales se ha incrementado  anualmente en más de  1°C durante los últimos cincuenta años y espera un incremento de más de 2°C en los próximos cincuenta años (Trewin, 2014) [2].  El incremento de la temperatura ha impacto al sector ganadero en gran medida, esto afecta el estrés calórico diario del animal que afecta negativamente el desempeño de la productividad  y la reproductividad. (Sirohi, 2007)[3].  De acuerdo al IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). La región del Valle Cauca ha experimientado desde el 2015 un incremento en temperatura entre 2 y 4 grados y aumento en las lluvia del 40%. 
 
 Bajo este panorama, se llevó a cabo el proyecto, cuantificación de los impactos del clima en sistemas bovinos lecheros en el trópico bajo a través de minera de datos y modelos, liderado por la Universidad Nacional de Colombia, junto al grupos del grupo a agricultura digital de la Alianza Bioversity y CIAT, bajo el programa de Climate, Change, Agriculture and Food Security CCAFS. 
 
