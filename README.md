@@ -1,7 +1,7 @@
 <img src="https://www.artimix.fr/var/artimix/storage/images/artimix/partenaires/ccafs/31850-4-esl-ES/ccafs_medium.jpg" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center"><img src="https://ciat.cgiar.org/wp-content/uploads/Alliance_logo.png" alt="right image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="rigth">
 
 
-# Manual para el manejo de datos de sensores de movimiento y timpánicos en bovinos
+# Manual para el manejo de datos de sensores de movimiento y de temperatura timpánica en bovinos
 
 
 ## Motivación
@@ -15,6 +15,7 @@ Un tema que ha comenzado a posicionarse en el ámbito ganadero es el impacto del
 
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
+
 [2] Trewin, B. The climates of the tropics and how they are changing. (2014). Bureau of Meteorology.
 
 El repositorio
