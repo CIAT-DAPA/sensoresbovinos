@@ -29,10 +29,10 @@ El objetivo de este trabajo es cuantificar la relación existente entre las vari
 
 El proceso descrito en la figura de arriba, homesotasis, es la capacidad de mantener una condición interna estable compensando los cambios en su entorno mediante el intercambio regulado de materia y energía exterior [4].  En este caso se pretende estudiar este proceso metabólico en la región del Valle del Cauca. 
 
-Y en grupo de agricultura digital junto a la equipo de la Universidad Nacional de Colombia trabajó en el flujo de trabajo en proceso de minera de datos originados de los sensores, ciclo de vida de los datos, utilizando la metodologia [CRISDM](https://www.sngular.com/es/data-science-crisp-dm-metodologia/). Este manual hace parte de este procesamiento.
+Y el grupo de agricultura digital junto al equipo de la Universidad Nacional de Colombia trabajó en el flujo de trabajo para el proceso de mineríaa de datos utilizando los datos de los sensores, ciclo de vida de los datos, utilizando la metodologia [CRISDM](https://www.sngular.com/es/data-science-crisp-dm-metodologia/). Este manual hace parte de este procesamiento.
 
 
-
+## Metodología
 
 
 ## Referencias 
