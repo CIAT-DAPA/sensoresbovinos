@@ -50,6 +50,14 @@ Para el caso de los sensores de movimiento, los sensores son ubicados en el cuel
 
 Por otro lado, las variables climaticas se tomaron de las estaciones meterologicas de las estaciones que tiene cada finca. 
 
+
+## Organización de las carpetas
+
+- Imagenes
+
+
+
+
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
 
