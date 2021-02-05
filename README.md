@@ -46,7 +46,7 @@ La instalación de los sensores fue un proceso largo y  tuvo inconvenientes debi
 
 Para el caso de los sensores de movimiento, los sensores son ubicados en el cuello del bovino como aparece en la imagen de abajo. Estos sensores detectan el movimiento de los bovinos de acuerdo a ciertos umbrales que determinan. 
 
-
+<img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/sensores4.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
