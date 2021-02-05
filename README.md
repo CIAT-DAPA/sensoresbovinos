@@ -34,7 +34,7 @@ Y el grupo de agricultura digital junto al equipo de la Universidad Nacional de 
 
 ## Metodología
 
-Los sensores utilizados para la captura 
+Los sensores utilizados para la medición de temperatura se muestran en la imagen de abajo. Estos sensores fueron ensamblados por la empresa Celotor de la ciudad de Cali. Están calibrados para que tomen datos de la temperatura cada hora. 
 
 <img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/sensores1.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
