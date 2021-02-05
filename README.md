@@ -34,9 +34,9 @@ Y el grupo de agricultura digital junto al equipo de la Universidad Nacional de 
 
 ## Metodología
 
-Los sensores utilizados para la cap
+Los sensores utilizados para la captura 
 
-
+<img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/Vaca1.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
 
 ## Referencias 
