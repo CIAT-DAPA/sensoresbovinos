@@ -44,6 +44,8 @@ La instalación de los sensores fue un proceso largo y  tuvo inconvenientes debi
 
 <img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/sensores2.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center"> <img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/sensores3.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
 
+Para el caso de los sensores de movimiento, los sensores son ubicados en el cuello del bovino como aparece en la imagen de abajo. Estos sensores detectan el movimiento de los bovinos de acuerdo a ciertos umbrales que determinan. 
+
 
 
 ## Referencias 
