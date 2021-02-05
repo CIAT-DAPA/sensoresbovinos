@@ -41,6 +41,11 @@ Los sensores utilizados para la medición de temperatura se muestran en la image
 
 La instalación de los sensores fue un proceso largo y  tuvo inconvenientes debido a las infecciones que les produjo algunos bovinos y al daño de los sensores por la cerosa, cera, de las orejas. Vale la pena resaltar la cooperación del sector ganadero vallecaucano, entre ellos, está la finca el Hatico, para adelantar este proceso, quienes siempre mostraron su disposición para prestar sus animales y a pesar de los contratiempos nunca dudaron es seguir con este proceso. 
 
+
+<img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/sensores2.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center"> <img src="https://github.com/j-river1/sensoresbovinos/blob/main/Imagenes/sensores3.png" alt="centered image" id="logo" data-height-percentage="100" data-actual-width="140" data-actual-height="55" class="center">
+
+
+
 ## Referencias 
 [1]. Oosting, S. J., Udo, H. M. J., & Viets, T. C. (2014). Development of livestock production in the tropics: Farm and farmers’ perspectives. Animal, 8(8), 1238-1248. https://doi.org/10.1017/S1751731114000548 
 
