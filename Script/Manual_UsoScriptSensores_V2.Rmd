@@ -1,0 +1,108 @@
+---
+title: "Manual para el manejo del script para analizar los datos de los sensores de movimiento"
+author: "Hugo Dorado & Juan Camilo Rivera Palacio"
+date: "10/7/2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Antes de utilizarlo
+
+Para utilizar el script es necesario que tenga instalado el programa R (version 3.6.1 o superiores) y R Studio (version 1.2.1335 o superiores). 
+
+Para ejecutar el script se debe tener los siguientes tres archivos:
+
+* Manual_UsoScriptSensores.Rmd Este es el archivo principal donde se ejecuta las lineas de codigo descritas a continuación.
+* datos_brutos. Está es una tabla que tiene todos los datos de los sensores.
+* sensores_movimiento_FUNS_V2.R. Están todas las funciones que utilizan en el script analisis_sensores.R
+* validacion.csv En este documento está la validación del comportamiento de las vacas.
+
+Recuerde copiar y pegar estos archivos en su carpeta de trabajo.
+
+##  Cargar librerias y funciones
+
+Las librerias que se utilizan son las mostradas a continuación y tambien se cargará las funciones creadas que están en el archivo Sensores_movimiento_FUNS_V2.R.
+
+
+```{r librerias, echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(tidyverse)
+library(plyr)
+library(data.table)
+library(dplyr)
+library(pracma)
+library(RMySQL)
+
+rm(list=ls())
+
+source('Sensores_movimiento_FUNS_V2.R')
+```
+
+## Abrir la base de datos
+
+En esta sección se abrirá la base datos de los sensores. Es importante mencionar que la base de datos está en formato sql, por lo tanto aseguresé de guardar esta base de datos en algun repositorio para luego conectarla. En este caso, la base de datos está guardada en el disco local, local host, y la base de datos se llama sensores_ganaderia que contiene la tabla datos_brutos. Para comprobar que está correctamente conectada  se hace una consulta la cantidad de datos que tiene y el resultadodebe ser 13524712.
+
+```{r abrirbasedatos}
+mydb = dbConnect(MySQL(), user='localhost', password='', dbname='sensores_ganaderia')
+total_registros = dbGetQuery(mydb,'SELECT COUNT(*) AS total_registros FROM datos_brutos')
+total_registros
+
+```
+
+## Ingresar datos de entrada
+
+Los datos de entrada son el código de la vaca, la fecha de inicio y fecha final de la toma de datos de los sensores. Una vez fijados estos parametros se filtra la base de datos y la salida es un data frame compuesto por las columnas Hora, X, Y, Z, Finca y Vaca. En este ejemplo, la fecha de inicio es 2019-09-05 y la fecha final es 2019-09-07 y el codigo de la vaca es 7301.
+
+```{r datos_entrada}
+
+base_filtros = dbGetQuery(mydb, 
+"SELECT Fecha, Hora, X, Y, Z, Finca, Vaca 
+ FROM datos_brutos 
+ WHERE Vaca = '42-3' OR Vaca = '7301' OR Vaca = '12504' OR Vaca = '3395' OR Vaca = '13502' OR Vaca ='E30'")
+
+head(base_filtros)
+```
+
+## Calcular la actividad por cada registro
+
+Aqui se estimará la actividad que está haciendo la vaca. Hay tres variables para variar, Fac_R1, Fac_R2 y Fac_C0. En este ejemplo tiene los valores 0.95, 1.05 y  -0.25, respectivamente.
+```{r estimar_actividad}
+#Estimar actividades por cada registro
+estimar_actividades <- estimar_actividad(base_filtros, Fac_R1 =0.95, Fac_R2 = 1.05,Fac_C0 = -0.25)
+#head(estimar_actividades )
+
+```
+
+## Determinar la actividad en un determinado tiempo
+
+Para determinar la actividad de la vaca, se debe primero fijar un periodo de tiempo, 10, 20, 30, o 60 minutos, La actividad está definida como la actividad que tuvo mayor frecuencia en ese periodo de tiempo. 
+
+```{r agrupar_actividades}
+
+#Estimar actividades en un rango de tiempo
+
+system.time(actividades_agrupadas <- agrupar_actividades_V1(registros=estimar_actividades,tiempo='10mins'))
+#actividades_agrupadas
+```
+
+## Graficar las actividades
+
+En esta parte se grafica los datos de los sensores.
+```{r determinar_actividad}
+grafica_validacion_sensor_V1(actividades_agrupadas)
+#head(actividades_agrupadas)
+```
+## Guardar Informacion
+
+Se guarda la consultada realizada
+```{r guardar}
+
+write.csv(actividades_agrupadas,paste0("Validacion","_SensoresMovimiento",".csv"), row.names = F)
+```
+
+
+
