@@ -53,8 +53,10 @@ Por otro lado, las variables climaticas se tomaron de las estaciones meterologic
 
 ## Organización de las carpetas
 
-- Imagenes
-
+- Imagenes. En esta carpeta están las imagenes del proyecto y del manual.
+- Licencia. Este codigo esta sujeto a esta licencias que permite su distribución sin ninguna restricción.
+- Manual. Esta el paso a paso del manual.
+- Script. Estan los codigos utilizados.
 
 
 
